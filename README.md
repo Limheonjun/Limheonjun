@@ -1,7 +1,7 @@
 ### 👋 Who am I
 Hello My name is Heonjun.  
 My major is **information telecommunication engineering**.  
-I can use **Java(My most confident language)**, javascript.
+I can use **Java(My most confident language)**, javascript.  
 I use them to relieve the inconvenience of everyday life.  
 This gives me a great sense of satisfaction.
 I'm interested in the overall web technology. Especially I'm interested in backend engineering.  
