@@ -1,7 +1,7 @@
 👋 Hello my name is Heonjun. 
 
 ### My Github Stats
-[![limheonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=limheonjun&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/limheonjun/github-readme-stats)
+[![limheonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=limheonjun&count_private=true&show_icons=true&theme=detault)](https://github.com/limheonjun/github-readme-stats)
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limheonjun)](https://github.com/limheonjun/github-readme-stats)
