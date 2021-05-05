@@ -1,7 +1,11 @@
-### Hi there 👋
+👋 Hello my name is Heonjun. 
 
+### My Github Stats
 [![limheonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=limheonjun&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/limheonjun/github-readme-stats)
+
+### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limheonjun)](https://github.com/limheonjun/github-readme-stats)
+
 <!--
 **Limheonjun/Limheonjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
