@@ -1,8 +1,10 @@
 ### 👋 Who am I
 Hello my name is Heonjun.
 
-My major is **information telecommunication engineering**. 
-I have project experience using **Java(My most confident language)**, javascript and Springboot, Jpa, React, SpringSecurity. 
+My major is **information telecommunication engineering**.
+
+I have project experience using **Java(My most confident language)**, javascript and Springboot, Jpa, React, SpringSecurity.
+
 I'm interested in the overall web technology. Especially I'm interested in backend engineering.
 
 ### Most Used Languages
