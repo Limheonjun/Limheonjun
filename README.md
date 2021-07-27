@@ -1,8 +1,7 @@
 ### 👋 Who am I
 Hello My name is Heonjun.   
-I can use **Java(My most confident language)**, javascript. They are used to relieve the inconvenience of everyday life.  
-This gives me a great sense of satisfaction.  
-I'm interested in the overall web technology. Especially I'm interested in backend engineering.  
+I can use **Java(My most confident language)**, javascript.
+I'm interested in backend engineering with Springboot and Spring Security.
 
 ### :computer: Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limheonjun&hide=html,css)](https://github.com/limheonjun/github-readme-stats)
