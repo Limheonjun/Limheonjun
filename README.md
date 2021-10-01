@@ -8,7 +8,6 @@
 I am a backend developer using springboot and java.  
 I always try to make better codes.
 <br>
-<br>
 
 ### 💪 Skills
 ![](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -17,10 +16,8 @@ I always try to make better codes.
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 <br>
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limheonjun&show_icons=true&theme=radical)  
-<br>
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jumong4000@gmail.com)](mailto:jumong4000@gmail.com)
