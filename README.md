@@ -1,5 +1,5 @@
 ### 👋 Who am I.
-Backend Engineering- Springboot, Java, Jpa, Spring Security
+Backend Engineering- Springboot, Java, Jpa, Spring Security  
 Orchestration Tool - Kubernetes
 
 ### :computer:
