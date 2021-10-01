@@ -1,4 +1,4 @@
-### 👋 Who am I.
+### 👋 Skills
 Backend Engineering- Springboot, Java, Jpa, Spring Security    
 Orchestration Tool - Kubernetes
 
