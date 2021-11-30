@@ -13,9 +13,9 @@ I always try to make better codes.
 ![](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)  
+![](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/DOCKER-4479A1?style=for-the-badge&logo=DOCKER&logoColor=white)
-![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limheonjun&show_icons=true&theme=radical)  
