@@ -5,12 +5,13 @@
 
 
 ### 👋 Who am I
-I am a backend developer using springboot and java.  
+I am a backend developer using springboot with java and kotlin.  
 I always try to make better codes.
 <br>
 
 ### 💪 Skills
 ![](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/KOTLIN-FFFFFF?style=for-the-badge&logo=kotlin&logoColor=blueviolet)
 ![](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)  
 ![](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
